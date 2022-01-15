@@ -1,0 +1,85 @@
+
+
+/* Utilities or common styles */
+body{
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  color: #E0E0E0;
+  font-size: 14px;
+}
+
+a{
+  font-size: 15px;
+}
+
+
+/* -------------------
+  -------Header-------
+---------------------- */
+header{
+  background-color: #264653;
+}
+.navigation,
+.nav-link {
+  color: #ffffff;
+}
+
+.nav-button{
+  background-color: #E76F51;
+  
+}
+
+
+.purchase{
+  background-color: #E76F51;
+}
+
+
+
+
+/* ------------------------
+  -------Main Section------
+  ------------------------- */
+/* --------Featured Bikes------- */
+.featured-bikes-title p{
+  color: #E76F51;
+}
+
+.featured-bikes-title .line-break{
+  border: 1px solid #E76F51;
+  width: 5%;
+  height: 1px;
+}
+
+.gray-image{
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
+
+
+
+/* -------Latest News------- */
+.latest-news p{
+  color: #6C6C6C;
+}
+
+.latest-news h3{
+  font-size: 24px;
+}
+
+.latest-news .read-more{
+  font-size: 14.5px;
+}
+
+.latest-news #read-more-01{
+  background-color: #E76F51;
+}
+
+.latest-news #read-more-02,
+.latest-news #read-more-03{
+  color: #E76F51;
+  border: 1px solid #E76F51;
+}
