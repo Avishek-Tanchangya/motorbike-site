@@ -92,6 +92,65 @@ header{
 /* --------------------------
  --------Happy Clients-------
  ---------------------------- */
+.happy-client{
+  border: 1px solid #DEDEDE;
+}
+
  .happy-client p{
    color: #6C6C6C;
  }
+
+ .full-star{
+   color: #E76F51;
+ }
+ .empty-star{
+   color: #E76F51;
+ }
+
+ .client-name{
+   color: #23A6F0;
+ }
+
+ .happy-client h6{
+   font-size: 13px;
+ }
+
+
+ /* ------------------------
+   -------FAQ Section-------
+  ------------------------- */
+.faq p{
+    color: #7E848C;
+  }
+
+
+/* --------------------------
+ --------Footer Section------
+ ---------------------------- */
+ footer p{
+   color: #D9DBE1;
+ }
+
+ footer i{
+   color: #FFFFFF;
+   font-size: 20px;
+ }
+ .applestore-app, .playstore-app{
+   width: 135px;
+   height: 40px;
+   border: 1px solid white;
+ }
+
+ footer .text-01, footer text-02{
+   padding: 0;
+   margin: 0;
+   font-size: 10px;
+ }
+
+ .footer-left{
+   border: 1px solid red;
+ }
+ .footer-right{
+   border: 1px solid red;
+ }
+
