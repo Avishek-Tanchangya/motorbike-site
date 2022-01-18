@@ -26,6 +26,17 @@ a{
 header{
   background-color: #264653;
 }
+
+.menu-bar{
+  margin-left: 530px;
+}
+
+.menu-bar i{
+  color: #FFFFFF;
+  font-size: 25px;
+}
+
+
 .navigation,
 .nav-link {
   color: #ffffff;
@@ -35,7 +46,6 @@ header{
   background-color: #E76F51;
   
 }
-
 
 .purchase{
   background-color: #E76F51;
