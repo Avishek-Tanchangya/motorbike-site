@@ -1,6 +1,7 @@
 
 
 /* Utilities or common styles */
+html,
 body{
   margin: 0;
   padding: 0;
@@ -147,10 +148,4 @@ header{
    font-size: 10px;
  }
 
- .footer-left{
-   border: 1px solid red;
- }
- .footer-right{
-   border: 1px solid red;
- }
 
